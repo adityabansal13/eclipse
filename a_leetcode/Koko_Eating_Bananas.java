@@ -1,7 +1,5 @@
 package a_leetcode;
 
-import java.util.*;
-
 public class Koko_Eating_Bananas {
 
 	public static void main(String[] args) {
